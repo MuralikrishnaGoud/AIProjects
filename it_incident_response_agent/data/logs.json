@@ -1,0 +1,37 @@
+[
+  {
+    "service": "student-portal-api",
+    "level": "ERROR",
+    "message": "Worker heartbeat missed; request queue depth increasing"
+  },
+  {
+    "service": "student-portal-api",
+    "level": "ERROR",
+    "message": "Upstream timeout after 30 seconds"
+  },
+  {
+    "service": "student-portal-api",
+    "level": "WARN",
+    "message": "API worker memory pressure detected"
+  },
+  {
+    "service": "student-portal-api",
+    "level": "ERROR",
+    "message": "HTTP 503 returned by application worker"
+  },
+  {
+    "service": "placements-db-api",
+    "level": "WARN",
+    "message": "Connection pool utilization 98 percent"
+  },
+  {
+    "service": "placements-db-api",
+    "level": "ERROR",
+    "message": "Timed out waiting for database connection"
+  },
+  {
+    "service": "placements-db-api",
+    "level": "WARN",
+    "message": "Stale pooled connections detected"
+  }
+]

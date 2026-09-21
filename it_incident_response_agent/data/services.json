@@ -1,0 +1,25 @@
+[
+  {
+    "service": "student-portal-api",
+    "status": "unhealthy",
+    "latency_ms": 2400,
+    "normal_latency_ms": 180,
+    "error_rate_percent": 18.7,
+    "dependencies": [
+      "student-db",
+      "identity-api"
+    ],
+    "last_action": "none"
+  },
+  {
+    "service": "placements-db-api",
+    "status": "degraded",
+    "latency_ms": 1550,
+    "normal_latency_ms": 220,
+    "error_rate_percent": 5.4,
+    "dependencies": [
+      "placements-db"
+    ],
+    "last_action": "none"
+  }
+]

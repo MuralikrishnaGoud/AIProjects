@@ -1,0 +1,50 @@
+[
+  {
+    "student_id": "STU-001",
+    "name": "Rohan Kumar",
+    "year": "3rd Year",
+    "degree": "B.Tech CSE",
+    "cgpa": 8.4,
+    "skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Pandas",
+      "NumPy",
+      "Streamlit",
+      "Basic Machine Learning"
+    ],
+    "projects": [
+      "Student Attendance Management System",
+      "Movie Recommendation Prototype",
+      "College Placement Dashboard"
+    ],
+    "career_interests": [
+      "AI Engineering",
+      "Data Engineering"
+    ]
+  },
+  {
+    "student_id": "STU-002",
+    "name": "Meera Shah",
+    "year": "3rd Year",
+    "degree": "B.Tech IT",
+    "cgpa": 8.1,
+    "skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "PostgreSQL",
+      "Power BI",
+      "Linux"
+    ],
+    "projects": [
+      "Sales Analytics Dashboard",
+      "ETL Pipeline Mini Project"
+    ],
+    "career_interests": [
+      "Data Engineering",
+      "Analytics Engineering"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "skill": "REST APIs",
+    "resource": "Build and consume a small REST API in Python",
+    "hours": 6
+  },
+  {
+    "skill": "LLM APIs",
+    "resource": "OpenAI API quickstart plus prompt exercises",
+    "hours": 5
+  },
+  {
+    "skill": "RAG",
+    "resource": "Build chunking, retrieval and grounded-answer flow",
+    "hours": 10
+  },
+  {
+    "skill": "Vector Databases",
+    "resource": "FAISS/vector search mini lab",
+    "hours": 6
+  },
+  {
+    "skill": "Agentic AI",
+    "resource": "Agents SDK tools, routing and multi-agent patterns",
+    "hours": 10
+  },
+  {
+    "skill": "Docker",
+    "resource": "Containerize one Python application",
+    "hours": 6
+  },
+  {
+    "skill": "Cloud",
+    "resource": "Deploy one small workload to an approved cloud sandbox",
+    "hours": 8
+  },
+  {
+    "skill": "Evaluation",
+    "resource": "Create evaluation dataset and rubric",
+    "hours": 5
+  },
+  {
+    "skill": "Data Modeling",
+    "resource": "Practice facts, dimensions and operational schemas",
+    "hours": 6
+  },
+  {
+    "skill": "ETL",
+    "resource": "Build ETL pipeline with validation",
+    "hours": 8
+  },
+  {
+    "skill": "Data Warehousing",
+    "resource": "Warehouse/loading/performance basics",
+    "hours": 6
+  },
+  {
+    "skill": "Snowflake",
+    "resource": "Stages, COPY, SQL and warehouses",
+    "hours": 8
+  },
+  {
+    "skill": "dbt",
+    "resource": "Models, tests, sources and docs",
+    "hours": 8
+  },
+  {
+    "skill": "Airflow",
+    "resource": "DAGs, scheduling, dependencies and retries",
+    "hours": 8
+  },
+  {
+    "skill": "JavaScript",
+    "resource": "Modern JavaScript fundamentals",
+    "hours": 8
+  },
+  {
+    "skill": "HTML",
+    "resource": "Semantic HTML mini project",
+    "hours": 3
+  },
+  {
+    "skill": "CSS",
+    "resource": "Responsive CSS mini project",
+    "hours": 4
+  },
+  {
+    "skill": "Frontend Framework",
+    "resource": "React CRUD UI",
+    "hours": 10
+  },
+  {
+    "skill": "Backend Framework",
+    "resource": "FastAPI or Express CRUD API",
+    "hours": 10
+  }
+]
